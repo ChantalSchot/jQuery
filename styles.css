@@ -1,10 +1,14 @@
+
 .big-title {
 	font-size: 6rem;
 	color: green;
 	font-family: cursive;
-	text-transform: uppercase;
 }
 
 .margin-large {
 	margin: 40px;
+}
+
+.dropdown {
+	/* visibility: hidden; */
 }
